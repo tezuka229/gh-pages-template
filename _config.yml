@@ -5,9 +5,9 @@ show_downloads: True
 navigation:
   - title: Home
     url: /
-  - title: S
+  - title: Setup
     url: setup
   - title: PZA uptake
     url: pza
   - title: NIZ uptake
-    url: niz
+    url: NIZ
